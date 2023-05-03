@@ -53,3 +53,5 @@ d_set: col1, col2
 
 Notice when a statement doesn't contain a where clause, you don't need to supply an empty d_set list. This situation is taken care by the 
 program.
+
+[test](https:www.bing.com)
